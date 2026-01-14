@@ -1,0 +1,11 @@
+project/
+├── config.yaml
+├── main.py
+├── project_config.py
+├── dbconnection.py
+├── dbtable.py
+├── tables/
+│   ├── __init__.py
+│   ├── cinema_table.py
+│   ├── movie_table.py
+│   └── schedule_table.py
